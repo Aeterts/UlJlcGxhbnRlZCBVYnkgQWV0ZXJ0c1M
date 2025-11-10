@@ -11,6 +11,7 @@
      * catalog.bin
   5) В папку **...\Replanted_Data\StreamingAssets\aa\StandaloneWindows64** из архива перенести с заменой файлы:
      * backgroundatlases_assets_all_ad9d2612bb65f45f86f9d103b8edf797.bundle
+     * fonts_assets_all.bundle
      * gameplayatlases_assets_all.bundle
      * splashscreen_assets_all_3e8e7c96f34cba7a686bfda4792b9c61.bundle
      * uiatlasalmanac_assets_all.bundle
