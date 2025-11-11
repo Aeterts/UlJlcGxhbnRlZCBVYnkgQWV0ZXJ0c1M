@@ -1,4 +1,4 @@
-# PvZ: Replanted Русская Локализация
+# PvZ: Replanted Localization (Локализация)
 
 Руссификатор полностью создан одним игроком из сообщества PvZ - Aeterts.
 
