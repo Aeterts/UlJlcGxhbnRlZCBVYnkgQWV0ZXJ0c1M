@@ -15,7 +15,7 @@
 ### 2. Ручная.
   1) Скачать архив из релиза для скачанной версии игры.
   2) Открыть папку с игрой (пример Steam): **...\Steam\steamapps\common\PVZ Replanted\Replanted_Data\StreamingAssets\aa**
-  3) В эту папаку из архива перенести с заменой файл:
+  3) В эту папку из архива перенести с заменой файл:
      * catalog.bin
   5) В папку **...\Replanted_Data\StreamingAssets\aa\StandaloneWindows64** из архива перенести с заменой файлы:
      * backgroundatlases_assets_all_ad9d2612bb65f45f86f9d103b8edf797.bundle
